@@ -1,4 +1,4 @@
-Bug
+Bug fixes
 ===========
 
 Adds bugs to your page.
